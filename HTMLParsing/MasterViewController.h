@@ -11,7 +11,11 @@
 @class DetailViewController;
 
 @interface MasterViewController : UITableViewController
-
+@property(weak, nonatomic) IBOutlet UITextField *user;
+@property(weak, nonatomic) IBOutlet UITextField *pass;
+@property(strong, nonatomic) IBOutlet UIWebView *logInPage;
+-(IBAction)logInAction:(id)sender;
+-(IBAction)viewMealPointsAction:(id)sender;
 @property (strong, nonatomic) DetailViewController *detailViewController;
-
+@property (nonatomic, retain) NSString *innerHTML;
 @end

@@ -53,7 +53,6 @@
 		8251AFC1199ABCC000D8D6C4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8251AFC4199ABCC000D8D6C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		8251AFC7199ABCC000D8D6C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
-		8251AFC9199ABCC000D8D6C4 /* MasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
 		8251AFCA199ABCC000D8D6C4 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
 		8251AFCC199ABCC000D8D6C4 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		8251AFCD199ABCC000D8D6C4 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
@@ -72,6 +71,7 @@
 		8251AFFD199ACF0700D8D6C4 /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
 		8251B047199C167100D8D6C4 /* Meal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Meal.h; sourceTree = "<group>"; };
 		8251B048199C167100D8D6C4 /* Meal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Meal.m; sourceTree = "<group>"; };
+		82D84EFF19A2CFFA00D9EABE /* MasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,7 +139,7 @@
 				8251AFC1199ABCC000D8D6C4 /* AppDelegate.m */,
 				8251AFC3199ABCC000D8D6C4 /* Main_iPhone.storyboard */,
 				8251AFC6199ABCC000D8D6C4 /* Main_iPad.storyboard */,
-				8251AFC9199ABCC000D8D6C4 /* MasterViewController.h */,
+				82D84EFF19A2CFFA00D9EABE /* MasterViewController.h */,
 				8251AFCA199ABCC000D8D6C4 /* MasterViewController.m */,
 				8251AFCC199ABCC000D8D6C4 /* DetailViewController.h */,
 				8251AFCD199ABCC000D8D6C4 /* DetailViewController.m */,
